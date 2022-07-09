@@ -1,0 +1,292 @@
+.top-nav a {
+    color: #c1bfbd;
+    padding: 5px 5px;
+    text-decoration: none;
+}
+
+.top-nav {
+    color: #c1bfbd;
+}
+
+
+.top-nav a:hover {
+    color: blue;
+}
+
+.top-header {
+    border-bottom: #c1bfbd solid 1px;
+}
+.top-main a {
+    color: #686766;
+    font-weight: bold;
+}
+
+.top-main a:hover {
+    border-bottom: #746a42 2px solid;
+    transition-delay: 2s;
+}
+.btn-search {
+    margin-left: -8px;
+}
+
+.btn-search:hover {
+    background: green;
+}
+
+header .top-bot {
+    background: url(../images/bg.jpg);
+    background-size: cover;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+.Content-header-bot {
+    color: white;
+    text-align: center;
+    padding: 50px;
+}
+
+.Content-header-bot h1 {
+    font-size: 4em;
+}
+
+.btn-header-bot {
+    text-align: center;
+    padding: 50px;
+}
+
+.btn-header-bot a {
+    color: white;
+    text-decoration: none;
+    border: white solid 2px;
+    font-size: 1.5em;
+    padding: 15px;
+}
+
+.btn-header-bot a:hover {
+    color: blue;
+    border: blue solid 2px;
+}
+
+.top-content-title {
+    text-align: center;
+}
+
+.top-content-title h1 {
+    color: #545454;
+    font: 46px "Roboto Slab", serif;
+    padding-top: 70px;
+}
+.top-content-title h5 {
+    color: #545454;
+    
+}
+
+.top-content-row {
+    text-align: center;
+    
+}
+.top-content-row  h5 {
+    padding-top: 30px;
+    color: #545454;
+}
+.top-content-row  h6 {
+    color: #B6B6B6;
+    padding-bottom: 30px;
+    border-bottom: #545454 solid 2px;
+}
+
+.top-main-content {
+    text-align: center;
+}
+
+.top-main-content  h1 {
+    padding-top: 80px;
+    color: #FF2E00;
+}
+
+.top-main-content  h5 {
+    color: #757575;
+}
+
+.main-content {
+    padding-top: 50px;
+}
+
+.icon-main-content {
+    color: blueviolet;
+    font-size: 8em;
+}
+.btn-content {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.btn-content a {
+    color: #FF2E00;
+    text-decoration: none;
+    border: #FF2E00 solid 2px;
+    padding: 5px 50px;
+    font-size: 1.5em;
+}
+.btn-content a:hover {
+    color: blue;
+    border: blue solid 2px;
+}
+
+.bot-main-content {
+    padding-top: 50px;
+    margin-top: 100px;
+    background: #eeeeee;
+}
+.bot-main-content h1 {
+    text-align: center;
+    color: #545454;
+}
+.bot-main-content h5 {
+    text-align: center;
+    color: #545454;
+}
+
+.bot-content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.read-more a {
+    text-decoration: none;
+    color: #FF2E00;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+.arrow-content a {
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: #757575;
+}
+
+.arrow {
+    color: blue;
+}
+
+.foot-main-title {
+    padding-top: 80px;
+    background: #f7f7f7;
+    text-align: center;
+}
+
+.foot-main-title h1 {
+    color: #FF2E00;
+}
+
+.foot-main-title h6 {
+    color: #757575;
+}
+
+.foot-row-content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.img-foot-content img {
+ border-radius:50%;
+-moz-border-radius:50%;
+-webkit-border-radius:50%;
+}
+
+.img-foot-content h5 {
+    padding-top: 20px;
+    color: #545454;
+}
+.img-foot-content h6 {
+    color: #757575;
+}
+
+.head-footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.head-footer a {
+    text-decoration: none;
+    color: #746a42;
+    font-size: 1em;
+}
+.head-footer h4 {
+    color: #746a42; 
+}
+
+#email {
+    margin-top: 30px;
+    padding: 10px 100px 10px 10px;
+}
+
+.btn-sign-up {
+    padding: 10px;
+    border: #FF2E00 solid 2px;
+    color: #FF2E00;
+    font-weight: bold;
+}
+.btn-sign-up:hover {
+    border: blue solid 2px;
+    color: blue;
+}
+
+.icon-head-footer a {
+    padding: 10px;
+    font-size: 1.5em;
+}
+.icon-head-footer a:hover {
+    color: #FF2E00;
+}
+
+.footer {
+    background: #686766;
+    margin-top: 50px;
+}
+
+.contact h4 {
+    color: white;
+    border-right: #eeeeee solid 2px;
+}
+
+.contact a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.contact a:hover {
+    color: blue;
+}
+
+.icon-mail {
+    color: #f7f7f7;
+}
+
+.body-footer {
+    padding: 50px;
+    border-bottom: #B6B6B6 solid 2px;
+}
+
+
+.nav-link.active {
+    color: blueviolet;
+}
+
+.copy-right {
+    color: #f7f7f7;
+    padding-top: 50px ;
+    padding-bottom: 100px;
+}
+
+.copy-right a {
+    text-decoration: none;
+    color: #f7f7f7;
+}
+.copy-right a:hover {
+    
+    color: blue;
+}
+
